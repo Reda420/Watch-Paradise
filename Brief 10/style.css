@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+header{
+    background-color: black;
+    color: white;
+    padding: 1em;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+nav{
+    background-color: #C9C9C9;
+    padding: 12px;
+}
+
+#cart{
+    position: relative;
+    left: 880px;
+    cursor: pointer;
+
+}
+
+#bar{
+    position: relative;
+    left: 390px;
+    border-radius: 7px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #b8b8b8;
+    padding: 1em;
+    margin: 30px;
+    width: 400px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+::placeholder{
+    color: #b8b8b8;
+}
