@@ -1,0 +1,204 @@
+[
+    {
+        "id":1,
+        "désignation":"Hugo Boss Hero Sport Lux",
+        "prix":"2500 MAD",
+        "catégorie":"Homme",
+        "disponibilité":["Tanger"," Rabat"],
+        "fournisseur":{
+            "rs":"Boss",
+            "Adresse":"Casablanca"
+        }
+    },
+    {
+        "id":2,
+        "désignation":"Hugo Boss Velocity",
+        "prix":"3000 MAD",
+        "catégorie":"Homme",
+        "disponibilité":["Tanger"," Meknès"],
+        "fournisseur":{
+            "rs":"Boss",
+            "Adresse":"Casablanca"
+        }
+    },{
+        "id":3,
+        "désignation":"Hugo Boss Grand Prix",
+        "prix":"1500 MAD",
+        "catégorie":"Homme",
+        "disponibilité":["Tanger"],
+        "fournisseur":{
+            "rs":"Boss",
+            "Adresse":"Casablanca"
+        }
+    },{
+        "id":4,
+        "désignation":"Michael Kors Watch Salamon",
+        "prix":"2000 MAD",
+        "catégorie":"Femme",
+        "disponibilité":["Tanger"," Rabat"],
+        "fournisseur":{
+            "rs":"Michael Kors",
+            "Adresse":"Casablanca"
+        }
+    },{
+        "id":5,
+        "désignation":"Bulova Watch Ice",
+        "prix":"2200 MAD",
+        "catégorie":"Femme",
+        "disponibilité":["Tanger"," Rabat"," Fès"],
+        "fournisseur":{
+            "rs":"Bulova Watch",
+            "Adresse":"Casablanca"
+        }
+    },{
+        "id":6,
+        "désignation":"Gmt Master 2",
+        "prix":"1400 MAD",
+        "catégorie":"Homme",
+        "disponibilité":["Tanger"],
+        "fournisseur":{
+            "rs":"Rolex",
+            "Adresse":"Casablanca"
+        }
+    },{
+        "id":7,
+        "désignation":"Day Date",
+        "prix":"2100 MAD",
+        "catégorie":"Femme",
+        "disponibilité":["Tanger"," Rabat"," Fès"],
+        "fournisseur":{
+            "rs":"Rolex",
+            "Adresse":"Casablanca"
+        }
+    },{
+        "id":8,
+        "désignation":"Sky Dweller",
+        "prix":"1700 MAD",
+        "catégorie":"Homme",
+        "disponibilité":["Rabat"," Fès"],
+        "fournisseur":{
+            "rs":"Rolex",
+            "Adresse":"Casablanca"
+        }
+    },{
+        "id":9,
+        "désignation":"Cosmograph Daytone",
+        "prix":"3200 MAD",
+        "catégorie":"Homme",
+        "disponibilité":["Tanger"," Rabat"],
+        "fournisseur":{
+            "rs":"Rolex",
+            "Adresse":"Casablanca"
+        }
+    },{
+        "id":10,
+        "désignation":"Yacht Master",
+        "prix":"2500 MAD",
+        "catégorie":"Homme",
+        "disponibilité":["Fès"],
+        "fournisseur":{
+            "rs":"Rolex",
+            "Adresse":"Casablanca"
+        }
+    },{
+        "id":11,
+        "désignation":"Casio Edifice Solar",
+        "prix":"2000 MAD",
+        "catégorie":"Homme",
+        "disponibilité":["Tanger"," Rabat"," Fès"],
+        "fournisseur":{
+            "rs":"Casio",
+            "Adresse":"Casablanca"
+        }
+    },{
+        "id":12,
+        "désignation":"Casio G-Shock G-Squad",
+        "prix":"1500 MAD",
+        "catégorie":"Homme",
+        "disponibilité":["Tanger"," Rabat"," Fès"],
+        "fournisseur":{
+            "rs":"Casio",
+            "Adresse":"Casablanca"
+        }
+    },{
+        "id":13,
+        "désignation":"Casio G-Shock G-Squad",
+        "prix":"1800 MAD",
+        "catégorie":"Homme",
+        "disponibilité":["Tanger"," Rabat"," Fès"],
+        "fournisseur":{
+            "rs":"Casio",
+            "Adresse":"Casablanca"
+        }
+    },{
+        "id":14,
+        "désignation":"Casio G-Shock Skeleton Series Watch",
+        "prix":"3400 MAD",
+        "catégorie":"Homme",
+        "disponibilité":["Tanger"],
+        "fournisseur":{
+            "rs":"Casio",
+            "Adresse":"Casablanca"
+        }
+    },{
+        "id":15,
+        "désignation":"Casio G-Shock Casioak Watch",
+        "prix":"2400 MAD",
+        "catégorie":"Femme",
+        "disponibilité":["Fès"],
+        "fournisseur":{
+            "rs":"Casio",
+            "Adresse":"Casablanca"
+        }
+    },{
+        "id":16,
+        "désignation":"Chronograph Stainless Steel Watch",
+        "prix":"1200 MAD",
+        "catégorie":"Homme",
+        "disponibilité":["Rabat"," Fès"],
+        "fournisseur":{
+            "rs":"Armani",
+            "Adresse":"Casablanca"
+        }
+    },{
+        "id":17,
+        "désignation":"Steel Strap Watche",
+        "prix":"1700 MAD",
+        "catégorie":"Homme",
+        "disponibilité":["Rabat"],
+        "fournisseur":{
+            "rs":"Armani",
+            "Adresse":"Casablanca"
+        }
+    },{
+        "id":18,
+        "désignation":"Three-Hand Two-Tone Stainless Steel Watch",
+        "prix":"2000 MAD",
+        "catégorie":"Femme",
+        "disponibilité":["Tanger"," Fès"],
+        "fournisseur":{
+            "rs":"Armani",
+            "Adresse":"Casablanca"
+        }
+    },{
+        "id":19,
+        "désignation":"Three-Hand Stainless Steel Watch",
+        "prix":"2200 MAD",
+        "catégorie":"Femme",
+        "disponibilité":["Tanger"," Rabat"],
+        "fournisseur":{
+            "rs":"Armani",
+            "Adresse":"Casablanca"
+        }
+    },{
+        "id":20,
+        "désignation":"Ank Leather Watch",
+        "prix":"1900 MAD",
+        "catégorie":"Homme",
+        "disponibilité":["Tanger"," Rabat"," Fès"],
+        "fournisseur":{
+            "rs":"Armani",
+            "Adresse":"Casablanca"
+        }
+    }
+]
